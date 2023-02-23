@@ -25,6 +25,7 @@ After the dapp opens in local host
 2. Select setup a new collection & approve
 
 Start a fourth new terminal type the command
+
 npm run mint wallet_address -> replace wallet address with the one which is showing on dapp.
 
 
