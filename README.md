@@ -27,6 +27,7 @@ After the dapp opens in local host
 Start a fourth new terminal type the command
 
 npm run mint wallet_address -> replace wallet address with the one which is showing on dapp.
+example -> npm run mint 0x179b6b1cb6755e31
 
 
 P.S -> Try refreshing page everytime you get an error.
